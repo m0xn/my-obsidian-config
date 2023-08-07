@@ -7,7 +7,7 @@ This repository includes the Obsidian configuration folder I'm currently using f
 - [CSS Snippets](#css-snippets)
 - [Configuration](#configuration)
     - [Custom shell script](#custom-shell-script)
-    - [Usage](#usage)
+        - [Usage](#usage)
 
 ## Theme 
 
