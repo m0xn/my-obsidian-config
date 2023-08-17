@@ -134,7 +134,7 @@
             }
           },
           {
-            "id": "ac429f0b3b826e2c",
+            "id": "5457c37a9ca76029",
             "type": "leaf",
             "state": {
               "type": "tasks_timeline_view",
@@ -176,11 +176,11 @@
   "active": "c623f44312deb7ec",
   "lastOpenFiles": [
     "Daily notes/17-08-2023.md",
-    "PC Buidling/Cómo montar un PC.md",
     "Daily notes/16-08-2023.md",
+    "Ludobot/Prompting infrastructure.md",
+    "PC Buidling/Cómo montar un PC.md",
     "Ludobot/Bot structure.md",
     "Ludobot/Interaction system infrastructure.md",
-    "Ludobot/Prompting infrastructure.md",
     "Daily notes/15-08-2023.md",
     "PC Buidling",
     "Ludobot/Ludobot Infrastructure.drawio.svg",
