@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "254930e85ccc3d88",
+            "id": "c623f44312deb7ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/07-08-2023.md",
+                "file": "Ludobot/Prompting infrastructure.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily notes/07-08-2023.md",
+                "file": "Ludobot/Prompting infrastructure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily notes/07-08-2023.md",
+                "file": "Ludobot/Prompting infrastructure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily notes/07-08-2023.md"
+                "file": "Ludobot/Prompting infrastructure.md"
               }
             }
           },
@@ -134,7 +134,7 @@
             }
           },
           {
-            "id": "6a677129424f5fc4",
+            "id": "ac429f0b3b826e2c",
             "type": "leaf",
             "state": {
               "type": "tasks_timeline_view",
@@ -173,35 +173,50 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6a677129424f5fc4",
+  "active": "c623f44312deb7ec",
   "lastOpenFiles": [
-    "Docker/Getting started with docker.md",
-    "Daily notes/07-08-2023.md",
-    "Daily notes/06-08-2023.md",
+    "Daily notes/17-08-2023.md",
+    "PC Buidling/Cómo montar un PC.md",
+    "Daily notes/16-08-2023.md",
+    "Ludobot/Bot structure.md",
+    "Ludobot/Interaction system infrastructure.md",
+    "Ludobot/Prompting infrastructure.md",
+    "Daily notes/15-08-2023.md",
+    "PC Buidling",
+    "Ludobot/Ludobot Infrastructure.drawio.svg",
+    "Ludobot/Pasted image 20230815121017.png",
+    "Ludobot/Ludobot prompting infrastructure.drawio.svg",
+    "Ludobot/Pasted image 20230813130201.png",
+    "Ludobot/Pasted image 20230813123742.png",
+    "Pasted image 20230815120828.png",
+    "Pasted image 20230815120340.png",
+    "Daily notes/14-08-2023.md",
+    "Ludobot/Ludobot interaction infrastructure.drawio.svg",
+    "Ludobot/Pasted image 20230813105015.png",
+    "Gift Vicente/Spare notes.md",
+    "Gift Vicente/Pasted image 20230810180101.png",
+    "Daily notes/13-08-2023.md",
     "Daily notes/12-08-2023.md",
-    "Untitled.md",
-    "Enhancing Obsidian.md",
+    "Daily notes/11-08-2023.md",
+    "Daily notes/10-08-2023.md",
+    "Docker/Getting started with docker.md",
+    "Daily notes/09-08-2023.md",
+    "Daily notes/08-08-2023.md",
+    "WebDev Roadmap/Internet/Additional notes on the Internet.md",
+    "Bot str",
+    "Ludobot",
+    "WebDev Roadmap/Internet/How does the Internet work?.md",
+    "WebDev Roadmap/Index.md",
+    "Note format.md",
+    "README.md",
+    "Note taking apps.md",
+    "Daily notes/07-08-2023.md",
+    "Gift Vicente",
+    "Gift for Vicente/Index.md",
+    "Gift for Vicente/Game idea.md",
+    "Daily notes/06-08-2023.md",
     "Daily notes",
-    "TODO/Tasks.md",
-    "Home.md",
     "TODO",
-    "Another.md",
-    "Something.md",
-    "Smoothie.md",
-    "sample.md",
-    "2023-08-06 Algo.md",
-    "Tasks for today.md",
-    "Inbox.md",
-    "DB folder/Untitled database.md",
-    "DB folder/Example.md",
-    "DB folder/Enhan.md",
-    "DB folder",
-    "2023-08-06 Sample.md",
-    "test.md",
-    "Enhanced Obsidian config.md",
-    "Test obsidian vaults.md",
-    "2023-08-06 Sample event.md",
-    "2023-08-06 Another event.md",
-    "202308061043.md"
+    "DB folder"
   ]
 }

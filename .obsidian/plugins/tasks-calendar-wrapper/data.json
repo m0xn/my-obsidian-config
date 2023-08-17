@@ -50,7 +50,7 @@
   "hideStatusTasks": [
     ""
   ],
-  "defaultTodayFocus": false,
+  "defaultTodayFocus": true,
   "defaultFilters": "",
   "useBuiltinStyle": true
 }

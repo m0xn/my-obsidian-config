@@ -14,5 +14,13 @@
       ],
       "key": "C"
     }
+  ],
+  "file-explorer:move-file": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "M"
+    }
   ]
 }
