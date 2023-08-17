@@ -24,11 +24,9 @@ This configuration is using the **Encore** theme from Carbonateb -> https://gith
 
 ## CSS-Snippets
 
-There are **2 custom snippets** included in this configuration:
+There is **1 custom** snippet in this config:
 
 - **S - Checkboxes.css**: Changes some visual aspects of the custom-status tasks included with the **Tasks** plugins mentioned in the section above.
-
-- **headerSizeFix.css**: Custom fix I implemented for the **Encore** theme regarding weird sizing on the headers (*PR pending by my side*).
 
 ## Configuration
 
